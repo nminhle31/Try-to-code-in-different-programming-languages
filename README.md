@@ -3,7 +3,6 @@
 ### *description:*
 
 
-
 | Num    |  Name         | P.L        |Link             |Description             |
 | ------ | ------------- |------------|-----------------|------------------------|
 | 1      | Hello, World! | C          |<a href="">Go</a>|Out put: "Hello, World!"|
@@ -13,3 +12,7 @@
 | 5      | Hello, World! | Javascript |<a href="">Go</a>|                        |
 | 6      | Reverse number|          C |<a href="">Go</a>|                        |
 | 7      | Reverse number|     Python |<a href="">Go</a>|                        |
+| 8      | Count number  | Java       |<a href="">Go</a>|                        |
+| 9      | Count number  | Javascript |<a href="">Go</a>|                        |
+| 10     | Count number  |          C |<a href="">Go</a>|                        |
+| 11     | smallestK     |     Python |<a href="">Go</a>|                        |
