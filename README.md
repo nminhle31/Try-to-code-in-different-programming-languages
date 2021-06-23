@@ -61,7 +61,7 @@
   
 | Num  |  Name          |Link              |Status   |
 | ---- | ---------------|------------------|---------|
-| 1    | Hello, World!  |<a href="">Go</a> ||
+| 1    | Hello, World!  |<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Problem%20description/helloworld.md">Go</a> ||
 | 2    | Count Number   |<a href="">Go</a> ||
 | 3    | Reverse Number |<a href="">Go</a> ||
 | 4    | Simple Array   |<a href="">Go</a> ||
