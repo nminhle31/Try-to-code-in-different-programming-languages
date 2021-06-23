@@ -33,4 +33,27 @@
 | 10   |Newton method   |Python|<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Python/Newtonmethod.py">Go</a>|<a href="">Go</a>|Available|
 | 11   |GCD             |Python|<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Python/GCD.py">Go</a>|<a href="">Go</a>|Available|
 </details>
+  
+<details><summary>Java</summary> 
+  
+| Num  |  Name          | P.L |Link             |Problem description     |Status   |
+| ---- | ---------------|------|-----------------|------------------------|---------|
+| 1    | Hello, World!  |Java  |<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Java/helloworld.java">Go</a>|<a href="">Go</a>|Available|
+| 2    | Count Number   |Java  |<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Java/countnumber.java">Go</a>|<a href="">Go</a>|Available|
+| 3    | Reverse Number |Java  |<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Java/reverse.java">Go</a>|<a href="">Go</a>|Available|  
+| 4    | Simple Array   |Java  |<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Java/simplearray.java">Go</a>|<a href="">Go</a>|Available|  
+
+</details>
+
+<details><summary>Swift</summary> 
+  
+| Num  |  Name          | P.L |Link             |Problem description     |Status   |
+| ---- | ---------------|------|-----------------|------------------------|---------|
+| 1    | Hello, World!  |Swift |<a href="https://github.com/ldnminh31/Try-to-code-in-different-programming-languages/blob/main/Swift/helloworld.swift">Go</a>|<a href="">Go</a>|Available|
+| 2    | Count Number   |Swift |<a href="">Go</a>|<a href="">Go</a>||
+| 3    | Reverse Number |Swift |<a href="">Go</a>|<a href="">Go</a>||  
+| 4    | Simple Array   |Swift |<a href="">Go</a>|<a href="">Go</a>||  
+
+</details>
+
 
